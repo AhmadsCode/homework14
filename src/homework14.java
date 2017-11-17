@@ -1,5 +1,5 @@
 /*
- * @author Ahmad Wahedi
+ * @author Ahmad 
  * CSC 201-004N
  * Assignment 14
  * Problem 14.7
